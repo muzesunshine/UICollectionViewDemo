@@ -1,0 +1,19 @@
+//
+//  UICollectionDemo-PrefixHeader.pch
+//  UICollectionViewDemo
+//
+//  Created by YaoJiaQi on 2017/7/10.
+//  Copyright © 2017年 EVYOU. All rights reserved.
+//
+
+#ifndef UICollectionDemo_PrefixHeader_pch
+#define UICollectionDemo_PrefixHeader_pch
+
+
+#define kScreenWidth  [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+#define kLineNum 3
+#define kLineSpacing 10
+
+
+#endif /* UICollectionDemo_PrefixHeader_pch */
